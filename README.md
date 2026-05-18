@@ -1,3 +1,3 @@
 # RecRoom-Live-Servers
 ## Biggest archive
-archiving old rec room live servers and making it accessible to everyone ig
+Archiving **Old Rec Room Live servers** and making it accessible to everyone.
